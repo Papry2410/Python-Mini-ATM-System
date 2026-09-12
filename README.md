@@ -20,7 +20,7 @@ This project was created as part of my Python learning journey and demonstrates 
 
 ## Technologies Used
 
-* Python 3
+* Python 
 
 ## Concepts Practiced
 
